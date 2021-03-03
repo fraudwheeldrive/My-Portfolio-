@@ -37,12 +37,18 @@ header h1 {
     right:33px;
 }
 
-header nav ul {
-    display: flex ;
-    flex-wrap: wrap;
+
+nav ul {
+    display: flex;
     justify-content: space-between;
-    align-items: center;
-    list-style: none;
-    color:cadetblue
+    margin: 0 -10px;
 }
+
+nav li {
+     margin: 0 10px;
+}
+
+
+
+
 
