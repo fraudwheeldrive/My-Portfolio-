@@ -48,7 +48,14 @@ nav li {
      margin: 0 10px;
 }
 
+.hero {
+    background-color: blueviolet;
+}
 
+.hero-banner {
+    display: flex;
+    justify-content: flex-end;
+}
 
 
 
