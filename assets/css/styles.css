@@ -18,6 +18,7 @@ flex-wrap:wrap;
 justify-content: space-between;
 position: sticky;
 top:0;
+align-items: flex-end;
 }
 
 
@@ -48,7 +49,7 @@ nav li {
      margin: 0 10px;
 }
 
-a {
+header a {
     color:lightblue;
 }
 
@@ -62,14 +63,94 @@ a {
 }
 
 .hero-banner {
-    padding: 10px 20px 10px 5px;
+    padding: 10px 60px 10px 5px;
     background-color:lightblue;
     color: #333;
+    border: 5px solid #333;
+}
+/* style maion*/
+
+main {
+    display: flex;
+    justify-content: space-between;
+    background-color:lightblue;
+    flex-direction: column;
+    flex-wrap: wrap;
+ 
+}
+
+/*about me */
+.about-me {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 10px 0px 40px;
+    text-align:left;
+}
+
+.about-me h2 {
+    border-right: 4px solid #333;
+    padding: 0px 10px 0px 0px;
+    color:#333;
+    text-align: justify;
+}
+
+.about-me article {
+    padding: 10px 10px 10px 10px;
+color: #333
+}
+
+
+.work  {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 10px 0px 40px;
+}
+.work h2 {
+    border-right: 4px solid #333;
+    padding: 0px 10px 0px 0px;
+    color:#333
+}
+
+.contact-me {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 10px 0px 40px;
+}
+.contact-me h2 {
+    border-right: 4px solid #333;
+    padding: 0px 10px 0px 0px;
+    color:#333
+}
+
+.run-buddy {
+    height: 500px;
+    width: 93%;
+    display:flex;
+    flex-direction: row;
+    align-items: flex-end;
+    background-image: url(../images/hero-bg.jpg);
+    background-size: contain;
+    background-position: center;
+    border: 1px solid #333;
+    padding: 10px 10px 10px 10px;
+}
+
+.run-buddy a {
+    background-color: #333;
+    color: lightblue;
+}
     
+.horiseon {
+    flex-direction: column;
+}
+
+
+
+
     
     
   
-}
+
 
 
 
