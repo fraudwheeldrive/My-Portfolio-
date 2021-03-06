@@ -141,9 +141,15 @@ color: #333
 }
     
 .horiseon {
-    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
 }
 
+.Contact-Me {
+    margin: 0 -10px;
+    display:flex;
+    list-style-type: none;
+}
 
 
 
