@@ -5,10 +5,12 @@ Create a portfolio using HTML, CSS and Advanced CSS fuctions to show case comple
 This will be evolving webpage that is updated as new products are added and the webpage its self is 
 refined. 
 
-## development
+## Development
 current website is not in as complete a state as can be. Certain functionalities were missed from the template 
 and will be added in at a later date. The main factors causing the incomplete state were was time. The following 
 functionality need to be added, images as buttons, media queries to optimize for different viewports. 
+
+![](My-Portfolio-/assets/images/My portfolio screen shot.png)
 
 
 
