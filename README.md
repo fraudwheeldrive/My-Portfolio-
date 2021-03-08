@@ -27,8 +27,8 @@ https://github.com/fraudwheeldrive/My-Portfolio.git
 
 ## Contribution 
 Markup and styling done by Andrew Core with the help of documents from W3schools and MDN Web Docs
-https://developer.mozilla.org/en-US/
-https://www.w3schools.com/
+###https://developer.mozilla.org/en-US/
+###https://www.w3schools.com/
 
 
 ### © 2021 Fraudwheeldrive, Inc.
