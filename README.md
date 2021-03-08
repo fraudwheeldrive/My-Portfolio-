@@ -21,12 +21,15 @@ Horiseon's webiste is built with
 *CSS
 
 ## Website 
-https://fraudwheeldrive.github.io/Coding-Assignment-1/
+https://fraudwheeldrive.github.io/My-Portfolio-/.
 ## Github Repository 
-https://github.com/fraudwheeldrive/Coding-Assignment-1.git
+https://github.com/fraudwheeldrive/My-Portfolio.git
 
 ## Contribution 
-Refactoring of code completed by Andrew COre 
+Markup and styling done by Andrew Core with the help of documents from W3schools and MDN Web Docs
+## https://developer.mozilla.org/en-US/
+## https://www.w3schools.com/
 
-### © 2019 Horiseon Social Solution Services, Inc.
+
+### © 2021 Fraudwheeldrive, Inc.
 
