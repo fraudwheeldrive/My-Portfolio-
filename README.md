@@ -10,7 +10,7 @@ current website is not in as complete a state as can be. Certain functionalities
 and will be added in at a later date. The main factors causing the incomplete state were was time. The following 
 functionality need to be added, images as buttons, media queries to optimize for different viewports. 
 
-![](My-Portfolio-/assets/images/My portfolio screen shot.png)
+![alt text](https://github.com/fraudwheeldrive/Coding-Assignment-1/blob/main/assets/images/My portfolio screen shot.png)
 
 
 
