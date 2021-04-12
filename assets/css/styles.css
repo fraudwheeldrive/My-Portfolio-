@@ -161,8 +161,9 @@ Header nav li a {
     flex-wrap: wrap;
     align-items: flex-end;
 }
-.ph1 {
-    background-image: url(../images/P99A0550-Edit.jpg);
+
+.covid-now {
+    background-image: url(../images/Covid\ Now.PNG);
     background-size: cover;
     background-position: center;
     display: flex;
