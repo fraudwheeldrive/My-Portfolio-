@@ -171,8 +171,8 @@ Header nav li a {
     flex-wrap: wrap;
     align-items: flex-end;
 }
-.ph2 {
-    background-image: url(../images/IMG_5088.jpg);
+.super-hip {
+    background-image: url(../images/super-hip.PNG);
     background-size: cover;
     background-position: center;
     display: flex;
